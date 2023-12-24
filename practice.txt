@@ -9,3 +9,4 @@ education details:
 interests:
     cricket
     volley ball
+    badminton
