@@ -5,3 +5,7 @@ personal details
 education details:
     school: vejendla
     college: vignan
+
+interests:
+    cricket
+    volley ball
