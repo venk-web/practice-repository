@@ -2,15 +2,6 @@ personal details
     name: Venkatesh
     location : hyderabad
 
-education:
-    chaitanya
-    narayana
-
-games:
-    volleyball
-    chess
-
-hobbies:
-    tv
-    mobile
-    insta
+education details:
+    school: vejendla
+    college: vignan
