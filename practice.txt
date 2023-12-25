@@ -5,3 +5,7 @@ personal details
 education:
     chaitanya
     narayana
+
+games:
+    volleyball
+    chess
