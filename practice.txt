@@ -9,3 +9,8 @@ education:
 games:
     volleyball
     chess
+
+hobbies:
+    tv
+    mobile
+    insta
