@@ -9,8 +9,3 @@ education details:
 interests:
     cricket
     volley ball
-    chess
-
-hobbies:
-    tv
-    mobile
