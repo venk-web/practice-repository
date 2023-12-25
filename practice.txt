@@ -1,3 +1,12 @@
 personal details
     name: Venkatesh
     location : hyderabad
+
+education details:
+    school: vejendla
+    college: vignan
+
+interests:
+    cricket
+    volley ball
+    location : hyderabad
