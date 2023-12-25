@@ -10,3 +10,7 @@ interests:
     cricket
     volley ball
     chess
+
+hobbies:
+    tv
+    mobile
